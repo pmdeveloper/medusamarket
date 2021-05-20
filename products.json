@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "name": "СРІБНИЙ БРАСЛЕТ (WHITE DIAMOND) (19 см)",
+      "price": 319,
+      "oldPrice": 550,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_silver_white_diamond.jpeg",
+      "isFeatured": true,
+      "forMen": false,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З ЧЕРЕПАШКОЮ З МАЛАХІТУ",
+      "price": 270,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_turtle_malachite.jpeg",
+      "isFeatured": true,
+      "forMen": false,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З ЛАЗУРІТУ (GOLD)",
+      "price": 250,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_gold_lazurite.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": false
+    },
+    {
+      "name": "БРАСЛЕТ З ЛАЗУРІТУ (SILVER)",
+      "price": 250,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_silver_lazurite.jpeg",
+      "isFeatured": true,
+      "forMen": true,
+      "forWomen": false
+    },
+    {
+      "name": "БРАСЛЕТ З ЛАЗУРІТУ (BLACK)",
+      "price": 250,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_black_lazurite.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": false
+    },
+    {
+      "name": "Браслет з гірського кришталю",
+      "price": 290,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_rhinestone.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (BLACK)",
+      "price": 350,
+      "oldPrice": 550,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_black.jpeg",
+      "isFeatured": true,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (WHITE)",
+      "price": 350,
+      "oldPrice": 550,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_white.jpeg",
+      "isFeatured": true,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (ROSE GOLD)",
+      "price": 350,
+      "oldPrice": 550,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_rose_gold.jpeg",
+      "isFeatured": true,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З ЧЕРЕПАШКОЮ З ГЕМАТИТУ",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_turtle_hematite.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКАМИ (GOLD)",
+      "price": 290,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crowns_gold.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКАМИ (BLACK)",
+      "price": 290,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crowns_black.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": false
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКАМИ (BLACK)",
+      "price": 590,
+      "oldPrice": 750,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crowns.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": false
+    },
+    {
+      "name": "СТАЛЕВИЙ БРАСЛЕТ (GOLD)",
+      "price": 390,
+      "oldPrice": 600,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_gold_chain.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": false
+    },
+    {
+      "name": "БРАСЛЕТ ІЗ СЕРЦЕМ",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_with_heart.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ ІЗ КАХОЛОНГУ ТА КВАРЦУ",
+      "price": 270,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_quartz_red.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "ЧОРНИЙ КВАРЦОВИЙ ГОДИННИК",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/watch_quartz_black.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (ROSE GOLD)",
+      "price": 270,
+      "oldPrice": 400,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_black_rose_gold.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ ІЗ КАХОЛОНГУ ТА КВАРЦУ",
+      "price": 270,
+      "oldPrice": 450,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_quartz_white.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (SILVER)",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_silver_white.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (SILVER)",
+      "price": 270,
+      "oldPrice": 400,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_silver_black.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (ROSE GOLD)",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_black_rose_gold2.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (SILVER)",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_silver_black2.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ З КОРОНКОЮ (GOLD)",
+      "price": 270,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_crown_gold_black2.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "БРАСЛЕТ ІЗ РОДОНІТУ",
+      "price": 250,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_rhodonite.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "ПАРА БРАСЛЕТІВ (SILVER)",
+      "price": 370,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_pair_black_silver.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    },
+    {
+      "name": "ПАРА БРАСЛЕТІВ (ROSE GOLD)",
+      "price": 370,
+      "oldPrice": 0,
+      "url": "https://raw.githubusercontent.com/pmdeveloper/medusamarket/main/images/bracelet_pair_black_rose_gold.jpeg",
+      "isFeatured": false,
+      "forMen": true,
+      "forWomen": true
+    }
+  ]
+}
